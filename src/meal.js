@@ -53,7 +53,7 @@ return discount
 function createRecipe (title1, ingredients1, type1) {
 //write a function with 3 parameters 
 //that creates an object
-
+// console.log ('title:', title1)
 var recipe1 = {
   title: title1,
   ingredients: ingredients1,
